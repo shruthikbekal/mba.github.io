@@ -1,1 +1,1 @@
-{"name": "mba.github.io", "version": "1.0.0", "description": "A website for my project.", "main": "index.js", "homepage": "https://shruthikbekal.github.io/mba.github.io", "scripts": { "test": "echo \"Error: no test specified\" && exit 1" }, "author": "Shruthi K. Bekal", "license": "ISC"}
+{"name": "your-project-name", "version": "1.0.0", "homepage": "https://shruthikbekal.github.io/mba.github.io", "dependencies": {"dependency-1": "^1.0.0","dependency-2": "^1.0.0"}, "scripts": {"start": "index.js"}}
